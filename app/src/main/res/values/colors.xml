@@ -1,0 +1,9 @@
+<resources>
+    <!-- Primary color definitions -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Secondary text color definition -->
+    <color name="colorTextSecondary">#808080</color> <!-- A grey color -->
+</resources>
